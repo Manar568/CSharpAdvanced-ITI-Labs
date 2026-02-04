@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4800C1-0628-47C2-9254-B38EB351E70D}|C#_Day01.csproj|e:\\mygithub\\project\\advancedc#_iti_labs\\c#_day01\\phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4800C1-0628-47C2-9254-B38EB351E70D}|C#_Day01.csproj|solutionrelative:phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4800C1-0628-47C2-9254-B38EB351E70D}|C#_Day01.csproj|e:\\mygithub\\project\\advancedc#_iti_labs\\c#_day01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4800C1-0628-47C2-9254-B38EB351E70D}|C#_Day01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4800C1-0628-47C2-9254-B38EB351E70D}|C#_Day01.csproj|e:\\mygithub\\project\\advancedc#_iti_labs\\c#_day01\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4800C1-0628-47C2-9254-B38EB351E70D}|C#_Day01.csproj|solutionrelative:rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4800C1-0628-47C2-9254-B38EB351E70D}|C#_Day01.csproj|e:\\mygithub\\project\\advancedc#_iti_labs\\c#_day01\\icolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4800C1-0628-47C2-9254-B38EB351E70D}|C#_Day01.csproj|solutionrelative:icolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4800C1-0628-47C2-9254-B38EB351E70D}|C#_Day01.csproj|e:\\mygithub\\project\\advancedc#_iti_labs\\c#_day01\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4800C1-0628-47C2-9254-B38EB351E70D}|C#_Day01.csproj|solutionrelative:ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4800C1-0628-47C2-9254-B38EB351E70D}|C#_Day01.csproj|e:\\mygithub\\project\\advancedc#_iti_labs\\c#_day01\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4800C1-0628-47C2-9254-B38EB351E70D}|C#_Day01.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4800C1-0628-47C2-9254-B38EB351E70D}|C#_Day01.csproj|e:\\mygithub\\project\\advancedc#_iti_labs\\c#_day01\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4800C1-0628-47C2-9254-B38EB351E70D}|C#_Day01.csproj|solutionrelative:square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4800C1-0628-47C2-9254-B38EB351E70D}|C#_Day01.csproj|e:\\mygithub\\project\\advancedc#_iti_labs\\c#_day01\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4800C1-0628-47C2-9254-B38EB351E70D}|C#_Day01.csproj|solutionrelative:circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day01\\Circle.cs",
+              "RelativeDocumentMoniker": "Circle.cs",
+              "ToolTip": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day01\\Circle.cs",
+              "RelativeToolTip": "Circle.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T12:27:03.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Square.cs",
+              "DocumentMoniker": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day01\\Square.cs",
+              "RelativeDocumentMoniker": "Square.cs",
+              "ToolTip": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day01\\Square.cs",
+              "RelativeToolTip": "Square.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T12:25:23.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day01\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Rectangle.cs",
+              "ToolTip": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day01\\Rectangle.cs",
+              "RelativeToolTip": "Rectangle.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwCAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T12:25:05.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IColor.cs",
+              "DocumentMoniker": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day01\\IColor.cs",
+              "RelativeDocumentMoniker": "IColor.cs",
+              "ToolTip": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day01\\IColor.cs",
+              "RelativeToolTip": "IColor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T12:22:56.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day01\\IShape.cs",
+              "RelativeDocumentMoniker": "IShape.cs",
+              "ToolTip": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day01\\IShape.cs",
+              "RelativeToolTip": "IShape.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T12:20:16.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day01\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day01\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T12:08:20.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PhoneBook.cs",
+              "DocumentMoniker": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day01\\PhoneBook.cs",
+              "RelativeDocumentMoniker": "PhoneBook.cs",
+              "ToolTip": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day01\\PhoneBook.cs",
+              "RelativeToolTip": "PhoneBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T11:22:10.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day01\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day01\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T11:16:22.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
