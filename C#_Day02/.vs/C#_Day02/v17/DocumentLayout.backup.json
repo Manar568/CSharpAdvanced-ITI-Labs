@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F216413-ECA3-4340-8C6B-AE1EF5B1E188}|C#_Day02.csproj|e:\\mygithub\\project\\advancedc#_iti_labs\\c#_day02\\phonnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F216413-ECA3-4340-8C6B-AE1EF5B1E188}|C#_Day02.csproj|solutionrelative:phonnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F216413-ECA3-4340-8C6B-AE1EF5B1E188}|C#_Day02.csproj|e:\\mygithub\\project\\advancedc#_iti_labs\\c#_day02\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F216413-ECA3-4340-8C6B-AE1EF5B1E188}|C#_Day02.csproj|solutionrelative:todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F216413-ECA3-4340-8C6B-AE1EF5B1E188}|C#_Day02.csproj|e:\\mygithub\\project\\advancedc#_iti_labs\\c#_day02\\invalidageexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F216413-ECA3-4340-8C6B-AE1EF5B1E188}|C#_Day02.csproj|solutionrelative:invalidageexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F216413-ECA3-4340-8C6B-AE1EF5B1E188}|C#_Day02.csproj|e:\\mygithub\\project\\advancedc#_iti_labs\\c#_day02\\browserhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F216413-ECA3-4340-8C6B-AE1EF5B1E188}|C#_Day02.csproj|solutionrelative:browserhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F216413-ECA3-4340-8C6B-AE1EF5B1E188}|C#_Day02.csproj|e:\\mygithub\\project\\advancedc#_iti_labs\\c#_day02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F216413-ECA3-4340-8C6B-AE1EF5B1E188}|C#_Day02.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F216413-ECA3-4340-8C6B-AE1EF5B1E188}|C#_Day02.csproj|e:\\mygithub\\project\\advancedc#_iti_labs\\c#_day02\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F216413-ECA3-4340-8C6B-AE1EF5B1E188}|C#_Day02.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F216413-ECA3-4340-8C6B-AE1EF5B1E188}|C#_Day02.csproj|e:\\mygithub\\project\\advancedc#_iti_labs\\c#_day02\\cage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F216413-ECA3-4340-8C6B-AE1EF5B1E188}|C#_Day02.csproj|solutionrelative:cage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F216413-ECA3-4340-8C6B-AE1EF5B1E188}|C#_Day02.csproj|e:\\mygithub\\project\\advancedc#_iti_labs\\c#_day02\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F216413-ECA3-4340-8C6B-AE1EF5B1E188}|C#_Day02.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F216413-ECA3-4340-8C6B-AE1EF5B1E188}|C#_Day02.csproj|e:\\mygithub\\project\\advancedc#_iti_labs\\c#_day02\\contactnotfoundexcption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F216413-ECA3-4340-8C6B-AE1EF5B1E188}|C#_Day02.csproj|solutionrelative:contactnotfoundexcption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F216413-ECA3-4340-8C6B-AE1EF5B1E188}|C#_Day02.csproj|e:\\mygithub\\project\\advancedc#_iti_labs\\c#_day02\\sparrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F216413-ECA3-4340-8C6B-AE1EF5B1E188}|C#_Day02.csproj|solutionrelative:sparrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F216413-ECA3-4340-8C6B-AE1EF5B1E188}|C#_Day02.csproj|e:\\mygithub\\project\\advancedc#_iti_labs\\c#_day02\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F216413-ECA3-4340-8C6B-AE1EF5B1E188}|C#_Day02.csproj|solutionrelative:lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BrowserHistory.cs",
+              "DocumentMoniker": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day02\\BrowserHistory.cs",
+              "RelativeDocumentMoniker": "BrowserHistory.cs",
+              "ToolTip": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day02\\BrowserHistory.cs",
+              "RelativeToolTip": "BrowserHistory.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T06:48:34.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PhonNumbers.cs",
+              "DocumentMoniker": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day02\\PhonNumbers.cs",
+              "RelativeDocumentMoniker": "PhonNumbers.cs",
+              "ToolTip": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day02\\PhonNumbers.cs",
+              "RelativeToolTip": "PhonNumbers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:51:50.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToDoList.cs",
+              "DocumentMoniker": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day02\\ToDoList.cs",
+              "RelativeDocumentMoniker": "ToDoList.cs",
+              "ToolTip": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day02\\ToDoList.cs",
+              "RelativeToolTip": "ToDoList.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:34:01.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day02\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day02\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwBoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T12:54:21.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day02\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day02\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAgwDUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T10:54:06.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvalidAgeException.cs",
+              "DocumentMoniker": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day02\\InvalidAgeException.cs",
+              "RelativeDocumentMoniker": "InvalidAgeException.cs",
+              "ToolTip": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day02\\InvalidAgeException.cs",
+              "RelativeToolTip": "InvalidAgeException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T12:46:45.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cage.cs",
+              "DocumentMoniker": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day02\\Cage.cs",
+              "RelativeDocumentMoniker": "Cage.cs",
+              "ToolTip": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day02\\Cage.cs",
+              "RelativeToolTip": "Cage.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T12:03:10.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day02\\Animal.cs",
+              "RelativeDocumentMoniker": "Animal.cs",
+              "ToolTip": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day02\\Animal.cs",
+              "RelativeToolTip": "Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T10:55:11.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContactNotFoundExcption.cs",
+              "DocumentMoniker": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day02\\ContactNotFoundExcption.cs",
+              "RelativeDocumentMoniker": "ContactNotFoundExcption.cs",
+              "ToolTip": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day02\\ContactNotFoundExcption.cs",
+              "RelativeToolTip": "ContactNotFoundExcption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T07:10:21.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sparrow.cs",
+              "DocumentMoniker": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day02\\Sparrow.cs",
+              "RelativeDocumentMoniker": "Sparrow.cs",
+              "ToolTip": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day02\\Sparrow.cs",
+              "RelativeToolTip": "Sparrow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T11:58:18.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Lion.cs",
+              "DocumentMoniker": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day02\\Lion.cs",
+              "RelativeDocumentMoniker": "Lion.cs",
+              "ToolTip": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\C#_Day02\\Lion.cs",
+              "RelativeToolTip": "Lion.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T11:57:58.835Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
