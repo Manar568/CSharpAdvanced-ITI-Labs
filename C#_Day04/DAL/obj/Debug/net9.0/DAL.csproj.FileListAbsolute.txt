@@ -1,0 +1,13 @@
+E:\myGitHub\project\AdvancedC#_ITI_Labs\DAL\bin\Debug\net9.0\DAL.deps.json
+E:\myGitHub\project\AdvancedC#_ITI_Labs\DAL\bin\Debug\net9.0\DAL.dll
+E:\myGitHub\project\AdvancedC#_ITI_Labs\DAL\bin\Debug\net9.0\DAL.pdb
+E:\myGitHub\project\AdvancedC#_ITI_Labs\DAL\obj\Debug\net9.0\DAL.csproj.AssemblyReference.cache
+E:\myGitHub\project\AdvancedC#_ITI_Labs\DAL\obj\Debug\net9.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\myGitHub\project\AdvancedC#_ITI_Labs\DAL\obj\Debug\net9.0\DAL.AssemblyInfoInputs.cache
+E:\myGitHub\project\AdvancedC#_ITI_Labs\DAL\obj\Debug\net9.0\DAL.AssemblyInfo.cs
+E:\myGitHub\project\AdvancedC#_ITI_Labs\DAL\obj\Debug\net9.0\DAL.csproj.CoreCompileInputs.cache
+E:\myGitHub\project\AdvancedC#_ITI_Labs\DAL\obj\Debug\net9.0\DAL.sourcelink.json
+E:\myGitHub\project\AdvancedC#_ITI_Labs\DAL\obj\Debug\net9.0\DAL.dll
+E:\myGitHub\project\AdvancedC#_ITI_Labs\DAL\obj\Debug\net9.0\refint\DAL.dll
+E:\myGitHub\project\AdvancedC#_ITI_Labs\DAL\obj\Debug\net9.0\DAL.pdb
+E:\myGitHub\project\AdvancedC#_ITI_Labs\DAL\obj\Debug\net9.0\ref\DAL.dll

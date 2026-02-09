@@ -1,0 +1,16 @@
+E:\myGitHub\project\AdvancedC#_ITI_Labs\BIL\bin\Debug\net9.0\BIL.deps.json
+E:\myGitHub\project\AdvancedC#_ITI_Labs\BIL\bin\Debug\net9.0\BIL.dll
+E:\myGitHub\project\AdvancedC#_ITI_Labs\BIL\bin\Debug\net9.0\BIL.pdb
+E:\myGitHub\project\AdvancedC#_ITI_Labs\BIL\bin\Debug\net9.0\DAL.dll
+E:\myGitHub\project\AdvancedC#_ITI_Labs\BIL\bin\Debug\net9.0\DAL.pdb
+E:\myGitHub\project\AdvancedC#_ITI_Labs\BIL\obj\Debug\net9.0\BIL.csproj.AssemblyReference.cache
+E:\myGitHub\project\AdvancedC#_ITI_Labs\BIL\obj\Debug\net9.0\BIL.GeneratedMSBuildEditorConfig.editorconfig
+E:\myGitHub\project\AdvancedC#_ITI_Labs\BIL\obj\Debug\net9.0\BIL.AssemblyInfoInputs.cache
+E:\myGitHub\project\AdvancedC#_ITI_Labs\BIL\obj\Debug\net9.0\BIL.AssemblyInfo.cs
+E:\myGitHub\project\AdvancedC#_ITI_Labs\BIL\obj\Debug\net9.0\BIL.csproj.CoreCompileInputs.cache
+E:\myGitHub\project\AdvancedC#_ITI_Labs\BIL\obj\Debug\net9.0\BIL.sourcelink.json
+E:\myGitHub\project\AdvancedC#_ITI_Labs\BIL\obj\Debug\net9.0\BIL.csproj.Up2Date
+E:\myGitHub\project\AdvancedC#_ITI_Labs\BIL\obj\Debug\net9.0\BIL.dll
+E:\myGitHub\project\AdvancedC#_ITI_Labs\BIL\obj\Debug\net9.0\refint\BIL.dll
+E:\myGitHub\project\AdvancedC#_ITI_Labs\BIL\obj\Debug\net9.0\BIL.pdb
+E:\myGitHub\project\AdvancedC#_ITI_Labs\BIL\obj\Debug\net9.0\ref\BIL.dll
