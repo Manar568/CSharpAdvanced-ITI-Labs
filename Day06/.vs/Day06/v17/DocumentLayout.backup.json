@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\Day06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{528E3330-E12A-4C92-8D77-CAEDCD3FE3D7}|Day06.csproj|e:\\mygithub\\project\\advancedc#_iti_labs\\day06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528E3330-E12A-4C92-8D77-CAEDCD3FE3D7}|Day06.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ITI .net ro2 2026\\Advanced C#\\Day 06\\Demo\\Day 06\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528E3330-E12A-4C92-8D77-CAEDCD3FE3D7}|Day06.csproj|e:\\mygithub\\project\\advancedc#_iti_labs\\day06\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528E3330-E12A-4C92-8D77-CAEDCD3FE3D7}|Day06.csproj|solutionrelative:course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528E3330-E12A-4C92-8D77-CAEDCD3FE3D7}|Day06.csproj|e:\\mygithub\\project\\advancedc#_iti_labs\\day06\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528E3330-E12A-4C92-8D77-CAEDCD3FE3D7}|Day06.csproj|solutionrelative:subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528E3330-E12A-4C92-8D77-CAEDCD3FE3D7}|Day06.csproj|e:\\mygithub\\project\\advancedc#_iti_labs\\day06\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528E3330-E12A-4C92-8D77-CAEDCD3FE3D7}|Day06.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528E3330-E12A-4C92-8D77-CAEDCD3FE3D7}|Day06.csproj|e:\\mygithub\\project\\advancedc#_iti_labs\\day06\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528E3330-E12A-4C92-8D77-CAEDCD3FE3D7}|Day06.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528E3330-E12A-4C92-8D77-CAEDCD3FE3D7}|Day06.csproj|e:\\mygithub\\project\\advancedc#_iti_labs\\day06\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528E3330-E12A-4C92-8D77-CAEDCD3FE3D7}|Day06.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528E3330-E12A-4C92-8D77-CAEDCD3FE3D7}|Day06.csproj|e:\\mygithub\\project\\advancedc#_iti_labs\\day06\\sampledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528E3330-E12A-4C92-8D77-CAEDCD3FE3D7}|Day06.csproj|solutionrelative:sampledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ITI .net ro2 2026\\Advanced C#\\Day 06\\Demo\\Day 06\\SampleData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528E3330-E12A-4C92-8D77-CAEDCD3FE3D7}|Day06.csproj|e:\\mygithub\\project\\advancedc#_iti_labs\\day06\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528E3330-E12A-4C92-8D77-CAEDCD3FE3D7}|Day06.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528E3330-E12A-4C92-8D77-CAEDCD3FE3D7}|Day06.csproj|e:\\mygithub\\project\\advancedc#_iti_labs\\day06\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528E3330-E12A-4C92-8D77-CAEDCD3FE3D7}|Day06.csproj|solutionrelative:department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\Day06\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\Day06\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T11:25:07.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\Day06\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\Day06\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAANcAAAAAAAAAAAAowGUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T11:18:43.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI .net ro2 2026\\Advanced C#\\Day 06\\Demo\\Day 06\\Program.cs",
+              "ToolTip": "D:\\ITI .net ro2 2026\\Advanced C#\\Day 06\\Demo\\Day 06\\Program.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAABEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T11:39:10.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cs",
+              "DocumentMoniker": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\Day06\\Course.cs",
+              "RelativeDocumentMoniker": "Course.cs",
+              "ToolTip": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\Day06\\Course.cs",
+              "RelativeToolTip": "Course.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T11:25:04.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SampleData.cs",
+              "DocumentMoniker": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\Day06\\SampleData.cs",
+              "RelativeDocumentMoniker": "SampleData.cs",
+              "ToolTip": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\Day06\\SampleData.cs",
+              "RelativeToolTip": "SampleData.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwCYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T11:31:06.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\Day06\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\Day06\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T11:25:06.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\Day06\\Order.cs",
+              "RelativeDocumentMoniker": "Order.cs",
+              "ToolTip": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\Day06\\Order.cs",
+              "RelativeToolTip": "Order.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T11:25:06.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\Day06\\Subject.cs",
+              "RelativeDocumentMoniker": "Subject.cs",
+              "ToolTip": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\Day06\\Subject.cs",
+              "RelativeToolTip": "Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T11:25:05.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SampleData.cs",
+              "DocumentMoniker": "D:\\ITI .net ro2 2026\\Advanced C#\\Day 06\\Demo\\Day 06\\SampleData.cs",
+              "ToolTip": "D:\\ITI .net ro2 2026\\Advanced C#\\Day 06\\Demo\\Day 06\\SampleData.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T12:19:01.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\Day06\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\Day06\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T11:25:04.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Department.cs",
+              "DocumentMoniker": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\Day06\\Department.cs",
+              "RelativeDocumentMoniker": "Department.cs",
+              "ToolTip": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\Day06\\Department.cs",
+              "RelativeToolTip": "Department.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T11:25:05.777Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
