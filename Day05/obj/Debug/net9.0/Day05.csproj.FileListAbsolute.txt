@@ -1,0 +1,15 @@
+E:\myGitHub\project\AdvancedC#_ITI_Labs\Day05\bin\Debug\net9.0\Day05.exe
+E:\myGitHub\project\AdvancedC#_ITI_Labs\Day05\bin\Debug\net9.0\Day05.deps.json
+E:\myGitHub\project\AdvancedC#_ITI_Labs\Day05\bin\Debug\net9.0\Day05.runtimeconfig.json
+E:\myGitHub\project\AdvancedC#_ITI_Labs\Day05\bin\Debug\net9.0\Day05.dll
+E:\myGitHub\project\AdvancedC#_ITI_Labs\Day05\bin\Debug\net9.0\Day05.pdb
+E:\myGitHub\project\AdvancedC#_ITI_Labs\Day05\obj\Debug\net9.0\Day05.GeneratedMSBuildEditorConfig.editorconfig
+E:\myGitHub\project\AdvancedC#_ITI_Labs\Day05\obj\Debug\net9.0\Day05.AssemblyInfoInputs.cache
+E:\myGitHub\project\AdvancedC#_ITI_Labs\Day05\obj\Debug\net9.0\Day05.AssemblyInfo.cs
+E:\myGitHub\project\AdvancedC#_ITI_Labs\Day05\obj\Debug\net9.0\Day05.csproj.CoreCompileInputs.cache
+E:\myGitHub\project\AdvancedC#_ITI_Labs\Day05\obj\Debug\net9.0\Day05.sourcelink.json
+E:\myGitHub\project\AdvancedC#_ITI_Labs\Day05\obj\Debug\net9.0\Day05.dll
+E:\myGitHub\project\AdvancedC#_ITI_Labs\Day05\obj\Debug\net9.0\refint\Day05.dll
+E:\myGitHub\project\AdvancedC#_ITI_Labs\Day05\obj\Debug\net9.0\Day05.pdb
+E:\myGitHub\project\AdvancedC#_ITI_Labs\Day05\obj\Debug\net9.0\Day05.genruntimeconfig.cache
+E:\myGitHub\project\AdvancedC#_ITI_Labs\Day05\obj\Debug\net9.0\ref\Day05.dll
