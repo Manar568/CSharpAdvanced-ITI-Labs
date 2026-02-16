@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\Day09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFD6AFD-FB76-410F-8361-C1EEE048E0DA}|Day09.csproj|e:\\mygithub\\project\\advancedc#_iti_labs\\day09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CFD6AFD-FB76-410F-8361-C1EEE048E0DA}|Day09.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ITI .net ro2 2026\\Advanced C#\\Demo\\Day 08 PII\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFD6AFD-FB76-410F-8361-C1EEE048E0DA}|Day09.csproj|e:\\mygithub\\project\\advancedc#_iti_labs\\day09\\studentscoursesview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CFD6AFD-FB76-410F-8361-C1EEE048E0DA}|Day09.csproj|solutionrelative:studentscoursesview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\Day09\\Migrations\\20260214162344_createview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260214162344_createview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\Day09\\Migrations\\20260214162253_createview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260214162253_createview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFD6AFD-FB76-410F-8361-C1EEE048E0DA}|Day09.csproj|e:\\mygithub\\project\\advancedc#_iti_labs\\day09\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CFD6AFD-FB76-410F-8361-C1EEE048E0DA}|Day09.csproj|solutionrelative:mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFD6AFD-FB76-410F-8361-C1EEE048E0DA}|Day09.csproj|e:\\mygithub\\project\\advancedc#_iti_labs\\day09\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CFD6AFD-FB76-410F-8361-C1EEE048E0DA}|Day09.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\Day09\\Migrations\\20260214131716_CreatStudentCourseTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260214131716_CreatStudentCourseTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFD6AFD-FB76-410F-8361-C1EEE048E0DA}|Day09.csproj|e:\\mygithub\\project\\advancedc#_iti_labs\\day09\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CFD6AFD-FB76-410F-8361-C1EEE048E0DA}|Day09.csproj|solutionrelative:course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260214162344_createview.cs",
+              "DocumentMoniker": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\Day09\\Migrations\\20260214162344_createview.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260214162344_createview.cs",
+              "ToolTip": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\Day09\\Migrations\\20260214162344_createview.cs",
+              "RelativeToolTip": "Migrations\\20260214162344_createview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T16:23:44.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260214162253_createview.cs",
+              "DocumentMoniker": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\Day09\\Migrations\\20260214162253_createview.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260214162253_createview.cs",
+              "ToolTip": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\Day09\\Migrations\\20260214162253_createview.cs",
+              "RelativeToolTip": "Migrations\\20260214162253_createview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T16:22:54.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsCoursesView.cs",
+              "DocumentMoniker": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\Day09\\StudentsCoursesView.cs",
+              "RelativeDocumentMoniker": "StudentsCoursesView.cs",
+              "ToolTip": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\Day09\\StudentsCoursesView.cs",
+              "RelativeToolTip": "StudentsCoursesView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T16:04:31.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI .net ro2 2026\\Advanced C#\\Demo\\Day 08 PII\\Program.cs",
+              "ToolTip": "D:\\ITI .net ro2 2026\\Advanced C#\\Demo\\Day 08 PII\\Program.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAAKgAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T15:04:20.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\Day09\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\Day09\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAiwF4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T12:01:23.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260214131716_CreatStudentCourseTables.cs",
+              "DocumentMoniker": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\Day09\\Migrations\\20260214131716_CreatStudentCourseTables.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260214131716_CreatStudentCourseTables.cs",
+              "ToolTip": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\Day09\\Migrations\\20260214131716_CreatStudentCourseTables.cs",
+              "RelativeToolTip": "Migrations\\20260214131716_CreatStudentCourseTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T13:17:18.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\Day09\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "MyDbContext.cs",
+              "ToolTip": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\Day09\\MyDbContext.cs",
+              "RelativeToolTip": "MyDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T12:18:14.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\Day09\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\Day09\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T12:18:03.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Course.cs",
+              "DocumentMoniker": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\Day09\\Course.cs",
+              "RelativeDocumentMoniker": "Course.cs",
+              "ToolTip": "E:\\myGitHub\\project\\AdvancedC#_ITI_Labs\\Day09\\Course.cs",
+              "RelativeToolTip": "Course.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T12:18:06.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
