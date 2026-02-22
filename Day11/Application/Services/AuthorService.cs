@@ -8,6 +8,7 @@ using Application.Interfaces.IRepositories;
 using Application.Interfaces.IServices;
 using Domain.Entities;
 using Mapster;
+using Microsoft.EntityFrameworkCore;
 
 namespace Application.Services
 {
@@ -56,7 +57,7 @@ namespace Application.Services
 
         public GetAuthorWithBookDto GetAuthorWithBooks(int id)
         {
-            var authors = _authorRebository.GetAll().FirstOrDefault(a => a.Id == id);
+            var authors = _authorRebository.GetAll().Include(a=>a.Books).FirstOrDefault(a => a.Id == id);
             var returnAuthirs = authors.Adapt<GetAuthorWithBookDto>();
             return returnAuthirs;
         }
@@ -71,8 +72,8 @@ namespace Application.Services
         public void DeleteAuthor(int id)
         {
             var auth=_authorRebository.GetAll().FirstOrDefault(a=>a.Id==id);
-            
-            _authorRebository.Delete(auth);
+            if (auth != null)
+                _authorRebository.Delete(auth);
         }
 
         public void UpdateAuthor(GetUpdateAuthorDto authorDto)

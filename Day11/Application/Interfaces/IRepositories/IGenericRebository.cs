@@ -9,7 +9,7 @@ namespace Application.Interfaces.IRepositories
 {
    public interface IGenericRebository<T>
     {
-        public List<T> GetAll();
+        public IQueryable<T> GetAll();
         public void Add(T entity);
         public void Update(T entity);
         public void Delete(T entity);

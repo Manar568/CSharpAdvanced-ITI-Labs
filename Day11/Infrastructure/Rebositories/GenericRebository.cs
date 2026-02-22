@@ -18,25 +18,28 @@ namespace Infrastructure.Rebositories
 
         }
 
-      public  List<T> GetAll()
+      public IQueryable<T> GetAll()
         {
-            return _context.Set<T>().ToList();
+            return _context.Set<T>();
         }
 
        public void Add(T entity)
         {
             _context.Add(entity);
+            _context.SaveChanges();
         }
 
         public void Delete(T entity)
         {
            _context.Remove(entity);
+            _context.SaveChanges();
         }
 
 
         public void Update(T entity)
         {
             _context.Update(entity);
+            _context.SaveChanges();
 
         }
     }

@@ -4,28 +4,33 @@ using Application.Interfaces.IRepositories;
 using Application.Interfaces.IServices;
 using Application.Mapper;
 using Application.Services;
+using Autofac;
 using Domain.Entities;
 using Infrastructure;
 using Infrastructure.Rebositories;
 
 namespace PresentationLayer
 {
-    internal class Program
+   public class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hellllo");
             MapsterConfig.Config();
 
-            MyDbContext context = new MyDbContext();
+            //MyDbContext context = new MyDbContext();
 
-            IGenericRebository<Book> bookRebo =new GenericRebository<Book>(context);
+            //IGenericRebository<Book> bookRebo =new GenericRebository<Book>(context);
 
-            IBookService bookService= new BookService(bookRebo);
+            //IBookService bookService= new BookService(bookRebo);
 
-            IGenericRebository<Author> authorRebo =new GenericRebository<Author>(context);
+            //IGenericRebository<Author> authorRebo =new GenericRebository<Author>(context);
 
-            IAuthorService authorService =new AuthorService(authorRebo);
+            //IAuthorService authorService =new AuthorService(authorRebo);
+
+           var builder=  AutofacConfiguration.Build();
+            var authorService=builder.Resolve<IAuthorService>();
+            var bookService=builder.Resolve<IBookService>();
 
             AddAuthorDto newAuthor = new() { FirstName = "Author1" };
             AddAuthorDto newAuthor2 = new() { FirstName = "Author2" };
@@ -47,31 +52,56 @@ namespace PresentationLayer
 
 
             var authors = authorService.GetAllAuthors();
+            var authors2 = authorService.GetAuthorWithBooks(1);
            // var authors2 = authorService.GetAuthorWithBooks(1);
+
+            //foreach (var bookk in authors2.Books) {
+            //    Console.WriteLine(bookk.Title);
+
+            //}
             foreach(var auth in authors)
             {
-                Console.WriteLine(auth.FirstName);
+                Console.WriteLine(auth.Id);
             }
 
             authorService.DeleteAuthor(1);
 
-            var authors2= authorService.GetAllAuthors();
 
-            foreach (var auth in authors2)
-            {
-                Console.WriteLine(auth.FirstName);
-            }
+
+
+
+            //var authors2= authorService.GetAllAuthors();
+
+            //foreach (var auth in authors2)
+            //{
+            //    Console.WriteLine(auth.FirstName);
+            //}
 
             //var books= bookService.GetAllBooks();
             //foreach(var book in books)
             //{
             //    Console.WriteLine(book.Title);
             //}
-            var book= bookService.GetBookByAuthor("Auth1");
-            Console.WriteLine(book.Title);
+            var book= bookService.GetAllBooks();
+            foreach (var book2 in book)
+            {
+                Console.WriteLine(book2.Title);
+
+            }
+
+
+            var book3= bookService.GetBookByAuthor("Auth1");
+                Console.WriteLine(book3.Title);
 
 
 
+            bookService.DeleteBook(2);
+
+            foreach (var book2 in book)
+            {
+                Console.WriteLine(book2.Id);
+
+            }
 
 
             //foreach(var book in books)
@@ -84,7 +114,7 @@ namespace PresentationLayer
 
             // GenericRebository<Book> bookRebo = new(context);
 
-           // BookService bookService = new BookService(bookRebo);
+            // BookService bookService = new BookService(bookRebo);
         }
     }
 }

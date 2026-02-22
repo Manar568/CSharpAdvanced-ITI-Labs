@@ -8,6 +8,7 @@ using Application.Interfaces.IRepositories;
 using Application.Interfaces.IServices;
 using Domain.Entities;
 using Mapster;
+using Microsoft.EntityFrameworkCore;
 
 namespace Application.Services
 {
@@ -32,28 +33,39 @@ namespace Application.Services
         public GetUpdatBookDto GetBook(int id)
         {
            var book =_bookRebository.GetAll().FirstOrDefault(b=>b.Id== id);
+            if (book == null)
+                return null;
             var resBook = book.Adapt<GetUpdatBookDto>();
             return resBook; 
         }
 
         public GetBookByAuthorDto GetBookByAuthor(string authorName)
         {
-            var book=_bookRebository.GetAll().FirstOrDefault(b=>b.Author.FirstName== authorName);
+            var book=_bookRebository.GetAll().Include(b=>b.Author).FirstOrDefault(b=>b.Author.FirstName== authorName);
+            if (book == null)
+                return null;
             var resBook= book.Adapt<GetBookByAuthorDto>();
+            if (resBook == null)
+                return null;
             return resBook;
         }
 
         public void AddNewBook(AddBookDto book)
         {
+            if (book == null)
+                return ;
             var resBook = book.Adapt<Book>();
-            _bookRebository.Update(resBook);
+            _bookRebository.Add(resBook);
 
         }
 
         public void DeleteBook(int id)
         {
             var book=_bookRebository.GetAll().FirstOrDefault(b=>b.Id==id);
+            if (book == null)
+                return ;
             _bookRebository.Delete(book);
+           
 
         }
 
